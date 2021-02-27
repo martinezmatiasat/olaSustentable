@@ -72,7 +72,6 @@
       <!-- ======= Featured Services Section ======= -->
       <section id="featured-services" class="featured-services section-bg">
          <div class="container">
-
             <div class="row no-gutters">
                <div class="col-lg-4 col-md-6">
                   <div class="icon-box">
@@ -99,7 +98,6 @@
                   </div>
                </div>
             </div>
-
          </div>
       </section><!-- End Featured Services Section -->
 
@@ -152,7 +150,15 @@
 
       <?php include_once INCLUDES.'experienciaOla.php' ?>
 
-      <!-- ======= Why Us Section ======= -->
+      <?php include_once INCLUDES.'surfeando.php' ?>
+
+      <?php include_once INCLUDES.'ods.php' ?>
+
+      <?php include_once INCLUDES.'novedades.php' ?>
+
+      <?php include_once INCLUDES.'charlemos.php' ?>
+
+      <!-- ======= Why Us Section ======= 
       <section id="why-us" class="why-us">
          <div class="container">
 
@@ -201,9 +207,9 @@
             </div>
 
          </div>
-      </section><!-- End Why Us Section -->
+      </section> End Why Us Section -->
 
-      <!-- ======= Our Clients Section ======= -->
+      <!-- ======= Our Clients Section ======= 
       <section id="clients" class="clients">
          <div class="container">
 
@@ -226,9 +232,9 @@
             </div>
 
          </div>
-      </section><!-- End Our Clients Section -->
+      </section>End Our Clients Section 
 
-      <!-- ======= Services Section ======= -->
+       ======= Services Section ======= 
       <section id="services" class="services">
          <div class="container">
 
@@ -327,9 +333,9 @@
             </div>
 
          </div>
-      </section><!-- End Services Section -->
+      </section> End Services Section 
 
-      <!-- ======= Cta Section ======= -->
+       ======= Cta Section ======= 
       <section id="cta" class="cta">
          <div class="container">
 
@@ -346,9 +352,9 @@
             </div>
 
          </div>
-      </section><!-- End Cta Section -->
+      </section> End Cta Section 
 
-      <!-- ======= Portfolio Section ======= -->
+       ======= Portfolio Section ======= 
       <section id="portfolio" class="portfolio">
          <div class="container">
 
@@ -501,9 +507,9 @@
             </div>
 
          </div>
-      </section><!-- End Portfolio Section -->
+      </section> End Portfolio Section 
 
-      <!-- ======= Team Section ======= -->
+       ======= Team Section ======= 
       <section id="team" class="team section-bg">
          <div class="container">
 
@@ -572,7 +578,7 @@
             </div>
 
          </div>
-      </section><!-- End Team Section -->
+      </section> End Team Section -->
 
       <!-- ======= Contact Section ======= -->
       <section id="contact" class="contact">
