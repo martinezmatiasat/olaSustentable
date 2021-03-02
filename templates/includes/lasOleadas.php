@@ -2,7 +2,7 @@
    <div class="container">
 
       <div class="section-title">
-         <h2>Las Oleadas</h2>
+         <h2>Nosotras</h2>
       </div>
 
       <div class="row">

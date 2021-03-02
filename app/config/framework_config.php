@@ -9,14 +9,14 @@ date_default_timezone_set('America/Argentina/Buenos_Aires');
 define('LANG'       , 'es');
 
 // Ruta base del proyecto
-define('BASEPATH'   , IS_LOCAL ? '/ola_sustentable/' : '____BASEPATH DE PRODUCCIÓN___');
+define('BASEPATH'   , IS_LOCAL ? '/olaSustentable/' : '____BASEPATH DE PRODUCCIÓN___');
 
 // Sal del sistema
 define('AUTH_SALT'  , 'Th3S4ltBy2M');
 
 // Puerto y URL del sitio
-define('PORT'       , '');
-define('URL'        , IS_LOCAL ? 'http://localhost:'.PORT.'/ola_sustentable/' : '___URL DE PRODUCCIÓN___');
+define('PORT'       , '80');
+define('URL'        , IS_LOCAL ? 'http://localhost:'.PORT.'/olaSustentable/' : '___URL DE PRODUCCIÓN___');
 
 // Rutas de directorios y archivos
 define('DS'         , DIRECTORY_SEPARATOR);

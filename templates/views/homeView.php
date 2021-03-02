@@ -14,12 +14,8 @@
             <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg)">
                <div class="carousel-container">
                   <div class="container">
-                     <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Green</span></h2>
-                     <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid.
-                        Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut.
-                        Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore
-                        modi architecto.</p>
-                     <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+                     <h2 class="animate__animated animate__fadeInDown"><span>TRANFORMACIÓN CONCIENTE HACIA UNA CULTURA SUSTENTABLE</span></h2>
+
                   </div>
                </div>
             </div>
@@ -28,12 +24,8 @@
             <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg)">
                <div class="carousel-container">
                   <div class="container">
-                     <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
-                     <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid.
-                        Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut.
-                        Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore
-                        modi architecto.</p>
-                     <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+                     <h2 class="animate__animated animate__fadeInDown">Impulsamos procesos de cambio de personas y organizaciones hacia una cultura sustentable.</h2>
+                     
                   </div>
                </div>
             </div>
@@ -42,12 +34,18 @@
             <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
                <div class="carousel-container">
                   <div class="container">
-                     <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
-                     <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid.
-                        Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut.
-                        Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore
-                        modi architecto.</p>
-                     <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+                     <h2 class="animate__animated animate__fadeInDown">Comprendemos la sustentabilidad como la relación entre tu rol, la sociedad, las organizaciones y el mundo. </h2>
+     
+                  </div>
+               </div>
+            </div>
+
+            <!-- Slide 4 -->
+            <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
+               <div class="carousel-container">
+                  <div class="container">
+                     <h2 class="animate__animated animate__fadeInDown"> ¡Subite a la ola de la sustentabilidad! </h2>
+     
                   </div>
                </div>
             </div>
@@ -604,7 +602,7 @@
                      <div class="email">
                         <i class="icofont-envelope"></i>
                         <h4>Email:</h4>
-                        <p>info@example.com</p>
+                        <p> info@olasustentable.com</p>
                      </div>
 
                      <div class="phone">

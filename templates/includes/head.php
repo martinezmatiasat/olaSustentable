@@ -5,12 +5,11 @@
    <meta charset="utf-8">
    <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-   <title>Green Bootstrap Template - Index</title>
+   <title>Ola Sustentable</title>
    <meta content="" name="description">
    <meta content="" name="keywords">
-
    <!-- Favicons -->
-   <link href=<?= IMG . "favicon.png" ?> rel="icon">
+   <link href="assets/img/WhatsApp Image 2021-01-07 at 16.12.15 (1).jpeg" rel="icon">
    <link href=<?= IMG . "apple-touch-icon.png" ?> rel="apple-touch-icon">
 
    <!-- Google Fonts -->
