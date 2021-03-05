@@ -1,13 +1,13 @@
 <header id="header" class="fixed-top">
    <div class="container d-flex align-items-center">
 
-      <h1 class="logo mr-auto"><a href="#inicio"><img src="assets\img\WhatsApp Image 2021-01-07 at 16.12.15 (1).jpeg"alt="ola sustentable" style="width:30%; height:30%"></a></h1>
+      <h1 class="logo mr-auto"><a href="#hero"><img src="assets\img\WhatsApp Image 2021-01-07 at 16.12.15 (1).jpeg"alt="ola sustentable" style="width:30%; height:30%"></a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav class="nav-menu d-none d-lg-block">
          <ul>
-            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#hero">Inicio</a></li>
             <li><a href="#las-oleadas">Nosotras</a></li>
             <li><a href="#experiencia-ola">Experiencia Ola</a></li>
             <li><a href="#surfeando">Surfeando</a></li>
