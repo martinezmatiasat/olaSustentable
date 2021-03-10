@@ -9,11 +9,14 @@
    <meta content="" name="description">
    <meta content="" name="keywords">
    <!-- Favicons -->
-   <link href="assets/img/WhatsApp Image 2021-01-07 at 16.12.15 (1).jpeg" rel="icon">
+   <link href=<?= IMG . "favicon.ico" ?> rel="icon">
    <link href=<?= IMG . "apple-touch-icon.png" ?> rel="apple-touch-icon">
 
    <!-- Google Fonts -->
    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+   <link rel="preconnect" href="https://fonts.gstatic.com">
+   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap" rel="stylesheet">
+   <link href="http://fonts.cdnfonts.com/css/bahnschrift" rel="stylesheet">
 
    <!-- Vendor CSS Files -->
    <link href=<?= VENDOR . "bootstrap/css/bootstrap.min.css" ?> rel="stylesheet">
@@ -24,5 +27,5 @@
    <link href=<?= VENDOR . "venobox/venobox.css" ?> rel="stylesheet">
 
    <!-- Template Main CSS File -->
-   <link href="assets/css/style.css" rel="stylesheet">
+   <link href=<?= CSS . "style.css" ?> rel="stylesheet">
 </head>

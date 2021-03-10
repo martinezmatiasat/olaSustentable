@@ -1,42 +1,25 @@
 <header id="header" class="fixed-top">
    <div class="container d-flex align-items-center">
 
-      <h1 class="logo mr-auto"><a href="#inicio"><img src="assets\img\WhatsApp Image 2021-01-07 at 16.12.15 (1).jpeg"alt="ola sustentable" style="width:30%; height:30%"></a></h1>
+      <!--<h1 class="logo mr-auto"><a href="#inicio"><img src= alt="ola sustentable" style=""></a></h1>-->
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <a href="#hero" class="logo mr-auto"><img src=<?= IMG . "logo.jpeg" ?> style="max-height: 2em;" alt="Ola Sustentable" class="img-fluid"></a>
 
       <nav class="nav-menu d-none d-lg-block">
          <ul>
-            <li><a href="#inicio">Inicio</a></li>
-            <li><a href="#las-oleadas">Nosotras</a></li>
+            <li><a href="#hero">Inicio</a></li>
+            <li><a href="#nosotras">Nosotras</a></li>
             <li><a href="#experiencia-ola">Experiencia Ola</a></li>
-            <li><a href="#surfeando">Surfeando</a></li>
-            <li><a href="#novedades">Novedades</a></li>
-            <li><a href="#charlemos">Charlemos</a></li>
-            <!--
-            <li class="drop-down"><a href="">Drop Down</a>
+            <li class="drop-down"><a href="#surfeando">Surfeando</a>
                <ul>
-                  <li><a href="#">Drop Down 1</a></li>
-                  <li class="drop-down"><a href="#">Deep Drop Down</a>
-                     <ul>
-                        <li><a href="#">Deep Drop Down 1</a></li>
-                        <li><a href="#">Deep Drop Down 2</a></li>
-                        <li><a href="#">Deep Drop Down 3</a></li>
-                        <li><a href="#">Deep Drop Down 4</a></li>
-                        <li><a href="#">Deep Drop Down 5</a></li>
-                     </ul>
-                  </li>
-                  <li><a href="#">Drop Down 2</a></li>
-                  <li><a href="#">Drop Down 3</a></li>
-                  <li><a href="#">Drop Down 4</a></li>
+                  <li><a href="#que-hacemos">¿Qu&eacute; hacemos?</a></li>
+                  <li><a href="#como-lo-hacemos">¿C&oacute;mo lo hacemos?</a></li>
+                  <li><a href="#ods">ODS</a></li>
                </ul>
             </li>
-            <li><a href="#contact">Contact</a></li>
-            -->
+            <li><a href="#novedades">Novedades</a></li>
+            <li><a href="#charlemos">Charlemos</a></li>
          </ul>
       </nav>
-      <!--
-      <a href="#about" class="get-started-btn scrollto">Get Started</a>
-      -->
    </div>
 </header>

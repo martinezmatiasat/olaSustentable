@@ -5,7 +5,7 @@
          <h2>Surfeando</h2>
       </div>
 
-      <div class="row mb-2 justify-content-center">
+      <div id="que-hacemos" class="row mb-2 justify-content-center">
          <h3>¿Qu&eacute; hacemos?</h3>
       </div>
 
@@ -40,20 +40,41 @@
             <p>Nuestra experiencia y propia necesidad nos llevó a conocer una enorme red de proveedores
                sustentables y socialmente responsables.</p>
          </div>
+      </div>
+</section>
 
+<section class="cta">
+   <div class="container">
+      <div id="como-lo-hacemos" class="row">
+         <div class="col-lg-9 text-center text-lg-left">
+            <h3>¿C&oacute;mo lo hacemos?</h3>
+            <P>
+               Por un lado, traccionando cambios desde el interior de las organizaciones y de las personas
+               para que impulsen acciones impacto real en la sociedad y en el medio ambiente. Tambi&eacute;n
+               impulsamos cambios en la producci&oacute;n y consumo de productos amigables con el ambiente.
+            </P>
+         </div>
+         <div class="col-lg-3 cta-btn-container text-center">
+            <a class="cta-btn align-middle" href="#charlemos">Charlemos</a>
+         </div>
+      </div>
+   </div>
+</section>
+
+<section class="why-us mt-5">
+   <div class="container">
+      <div id="ods" class="row mt-5 mb-2 justify-content-center">
+         <h3>ODS</h3>
       </div>
 
-      <div class="row mt-5 mb-2 justify-content-center">
-         <h3>¿C&oacute;mo lo hacemos?</h3>
+      <div class="row justify-content-center">
+         <div class="col-lg-12">
+            <P>
+               Te asesoramos para construir un plan de implementación de proyectos concretos con
+               contribuciones a los ODS. Al identificar los más relevantes y estratégicos, direccionamos a tu
+               empresa u organización en el cumplimiento de sus metas
+            </P>
+         </div>
       </div>
-
-      <div class="row mb-5 justify-content-center">
-         <P>
-            Por un lado, traccionando cambios desde el interior de las organizaciones y de las personas
-            para que impulsen acciones impacto real en la sociedad y en el medio ambiente. Tambi&eacute;n
-            impulsamos cambios en la producci&oacute;n y consumo de productos amigables con el ambiente.
-         </P>
-      </div>
-
    </div>
 </section>

@@ -1,4 +1,4 @@
-<section id="las-oleadas" class="about2">
+<section id="nosotras" class="about2">
    <div class="container">
 
       <div class="section-title">

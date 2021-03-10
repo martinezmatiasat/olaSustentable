@@ -1,8 +1,7 @@
 <footer id="footer">
    <div class="container">
-      <h3>Green</h3>
-      <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.
-      </p>
+      <a href="index.html" class="logo mr-auto"><img src=<?= IMG . "logo_fondo_negro.png" ?> style="max-height: 5em;" alt="" class="img-fluid"></a>
+      <p></p>
       <div class="social-links">
          <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
          <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
