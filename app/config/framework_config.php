@@ -9,14 +9,14 @@ date_default_timezone_set('America/Argentina/Buenos_Aires');
 define('LANG'       , 'es');
 
 // Ruta base del proyecto
-define('BASEPATH'   , IS_LOCAL ? '/olaSustentable2/' : '____BASEPATH DE PRODUCCIÓN___');
+define('BASEPATH'   , IS_LOCAL ? '/olaSustentable/' : '/docpriority.xyz/');
 
 // Sal del sistema
 define('AUTH_SALT'  , 'Th3S4ltBy2M');
 
 // Puerto y URL del sitio
 define('PORT'       , '');
-define('URL'        , IS_LOCAL ? 'http://localhost:'.PORT.'/olaSustentable2/' : '___URL DE PRODUCCIÓN___');
+define('URL'        , IS_LOCAL ? 'http://localhost:'.PORT.'/olaSustentable/' : 'http://docpriority.xyz/');
 
 // Rutas de directorios y archivos
 define('DS'         , DIRECTORY_SEPARATOR);
