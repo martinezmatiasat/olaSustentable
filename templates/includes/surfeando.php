@@ -6,7 +6,7 @@
       </div>
 
       <div id="que-hacemos" class="row mb-2 justify-content-center">
-         <h3>¿Qu&eacute; hacemos?</h3>
+         <h3>Método Ola Sustentable</h3>
       </div>
 
       <div class="row no-gutters">
@@ -15,30 +15,35 @@
             <span>01</span>
             <h4>Transformación &amp; Cultura Sustentable</h4>
             <p>A través de Consultoría, Talleres &amp; Seminarios digitales orientamos a tu organización en el
-               cambio de mindset hacia la sustentabilidad, utilizando herramientas de coaching y
-               metodologías ágiles.</p>
+               cambio de mindset hacia la sustentabilidad, utilizando herramientas de coaching,
+               metodologías ágiles y tecnologías participativas.</p>
+            <p>Acompañamos procesos de cambio para potenciar el bienestar de tu organización. Apoyamos
+                a líderes y equipos co-creando espacios colaborativos y sustentables para expandir la creatividad y la
+                innovación.</p>
          </div>
 
          <div class="col-lg-6 col-md-6 content-item">
             <span>02</span>
             <h4>Diseño de proyectos y eventos sustentables</h4>
-            <p>Generamos acciones de impacto conectando los diferentes sectores, como ONG`s, empresas,
-               emprendedores sustentables con foco en los ODS vinculados a tu cadena de valor.</p>
+            <p>Generamos acciones de impacto conectando los diferentes sectores, como ONG, empresas,
+                emprendedores y proveedores sustentables. Vinculamos los ODS a tu cadena de valor, a través
+                de alianzas con un propósito compartido.</p>
          </div>
 
          <div class="col-lg-6 col-md-6 content-item">
             <span>03</span>
             <h4>Programa Easy Eco In Company</h4>
             <p>Promovemos acciones de sensibilización y equipamiento “eco” en oficinas y espacios de
-               trabajo. Para transformar hábitos es necesario adecuar nuestro entorno, desde el enfoque de
-               la economía circular, la eficiencia energética y la alimentación consciente.</p>
+                trabajo. Para incorporar hábitos sustentables es necesario adecuar
+                nuestro entorno, desde el enfoque, desde el enfoque de
+                la economía circular, la eficiencia energética y la alimentación consciente.</p>
          </div>
 
          <div class="col-lg-6 col-md-6 content-item">
             <span>04</span>
-            <h4>Promover productos amigables</h4>
-            <p>Nuestra experiencia y propia necesidad nos llevó a conocer una enorme red de proveedores
-               sustentables y socialmente responsables.</p>
+            <h4>Programa: Acción para la Economía Circular</h4>
+            <p>Somos parte de una red que impulsa productos y servicios de la economía circular. Generamos sinergias entre actores y partners para el reemplazo paulatino de productos, que eviten la generación de residuos y prioricen el triple impacto: ambiental, económico y social. </p>
+            <p>Ayudamos a tu organización a encontrar alternativas sustentables, oportunidades y modelos de negocio que respondan a las necesidades de las nuevas generaciones y tendencias del mercado.</p>
          </div>
       </div>
 </section>
@@ -47,11 +52,12 @@
    <div class="container">
       <div id="como-lo-hacemos" class="row">
          <div class="col-lg-9 text-center text-lg-left">
-            <h3>¿C&oacute;mo lo hacemos?</h3>
+            <h3>ODS</h3>
             <P>
-               Por un lado, traccionando cambios desde el interior de las organizaciones y de las personas
-               para que impulsen acciones impacto real en la sociedad y en el medio ambiente. Tambi&eacute;n
-               impulsamos cambios en la producci&oacute;n y consumo de productos amigables con el ambiente.
+              Te asesoramos para implementar proyectos concretos con contribuciones a los
+            Objetivos de Desarrollo Sostenibles (ODS), vinculándolos a tu propósito. Al identificar
+            los más relevantes y estratégicos, acompañamos a tu empresa u organización en el
+            cumplimiento de sus metas para la Agenda 2030.
             </P>
          </div>
          <div class="col-lg-3 cta-btn-container text-center">
@@ -61,20 +67,3 @@
    </div>
 </section>
 
-<section class="why-us mt-5">
-   <div class="container">
-      <div id="ods" class="row mt-5 mb-2 justify-content-center">
-         <h3>ODS</h3>
-      </div>
-
-      <div class="row justify-content-center">
-         <div class="col-lg-12">
-            <P>
-               Te asesoramos para construir un plan de implementación de proyectos concretos con
-               contribuciones a los ODS. Al identificar los más relevantes y estratégicos, direccionamos a tu
-               empresa u organización en el cumplimiento de sus metas
-            </P>
-         </div>
-      </div>
-   </div>
-</section>

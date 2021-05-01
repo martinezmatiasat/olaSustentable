@@ -9,7 +9,7 @@
          <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg)">
             <div class="carousel-container">
                <div class="container">
-                  <h2 class="animate__animated animate__fadeInDown"><span>TRANFORMACIÓN CONCIENTE HACIA UNA CULTURA SUSTENTABLE</span></h2>
+                  <h2 class="animate__animated animate__fadeInDown"><span>TRANFORMACIÓN CONSCIENTE HACIA UNA CULTURA SUSTENTABLE</span></h2>
                   <p class="animate__animated animate__fadeInUp">
                  
                </div>

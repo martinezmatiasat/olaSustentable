@@ -6,40 +6,40 @@
       <div class="carousel-inner" role="listbox">
 
          <!-- Slide 1 -->
-         <div class="carousel-item active" style="background-image: url(<?= IMG."slide/slide-1.jpeg" ?>)">
+         <div class="carousel-item active" style="background-image: url('assets/img/Ola_sustentable_transformacion_consciente.png')">
             <div class="carousel-container">
                <div class="container">
-                  <h2 class="animate__animated animate__fadeInDown"><span>TRANFORMACIÓN CONCIENTE HACIA UNA CULTURA SUSTENTABLE</span></h2>
+                  <h2 class="animate__animated animate__fadeInDown" style="color:#fff;"><span>TRANFORMACIÓN CONSCIENTE HACIA UNA CULTURA SUSTENTABLE</span></h2>
 
                </div>
             </div>
          </div>
 
          <!-- Slide 2 -->
-         <div class="carousel-item" style="background-image: url(<?= IMG."slide/slide-2.jpeg" ?>)">
+         <div class="carousel-item" style="background-image: url('assets/img/Ola_Sustentable_desarrollo_planeta.png')">
             <div class="carousel-container">
                <div class="container">
-                  <h2 class="animate__animated animate__fadeInDown">Impulsamos procesos de cambio de personas y organizaciones hacia una cultura sustentable.</h2>
+                  <h2 class="animate__animated animate__fadeInDown" style="color:#fff;">Impulsamos procesos de cambio que contemplen el bienestar y desarrollo sustentable de las personas y el planeta.</h2>
 
                </div>
             </div>
          </div>
 
          <!-- Slide 3 -->
-         <div class="carousel-item" style="background-image: url(<?= IMG."slide/slide-3.jpeg" ?>)">
+         <div class="carousel-item" style="background-image: url('assets/img/Ola_sustentable_rol_sociedad_.png')">
             <div class="carousel-container">
                <div class="container">
-                  <h2 class="animate__animated animate__fadeInDown">Comprendemos la sustentabilidad como la relación entre tu rol, la sociedad, las organizaciones y el mundo. </h2>
+                  <h2 class="animate__animated animate__fadeInDown" style="color:#fff;">Comprendemos la sustentabilidad como la relación entre tu rol, la sociedad, las organizaciones y el mundo. </h2>
 
                </div>
             </div>
          </div>
 
          <!-- Slide 4 -->
-         <div class="carousel-item" style="background-image: url(<?= IMG."slide/slide-5.jpeg" ?>)">
+         <div class="carousel-item" style="background-image: url('assets/img/Ola_sustentable_subite_a_la_ola.png)">
             <div class="carousel-container">
                <div class="container">
-                  <h2 class="animate__animated animate__fadeInDown"> ¡Subite a la ola de la sustentabilidad! </h2>
+                  <h2 class="animate__animated animate__fadeInDown" style="color:#fff;"> ¡Subite a la ola de la sustentabilidad! </h2>
 
                </div>
             </div>

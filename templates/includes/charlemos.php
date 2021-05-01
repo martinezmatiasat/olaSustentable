@@ -8,7 +8,7 @@
       <div class="row">
 
          <div class="col-lg-12 mt-5 mt-lg-0 d-flex align-items-stretch">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <form action=<?= URL.'mail' ?> method="post" role="form" class="php-email-form">
                <div class="form-row">
                   <div class="form-group col-md-6">
                      <label for="name">Nombre</label>
@@ -32,9 +32,12 @@
                   <div class="validate"></div>
                </div>
                <div class="mb-3">
+               <?= Alert::catch_login_msg(); ?>
+               <!--
                   <div class="loading">Loading</div>
                   <div class="error-message"></div>
                   <div class="sent-message">Your message has been sent. Thank you!</div>
+                  -->
                </div>
                <div class="text-center"><button type="submit">Enviar</button></div>
             </form>

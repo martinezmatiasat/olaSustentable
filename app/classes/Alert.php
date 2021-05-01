@@ -50,4 +50,29 @@ class Alert
       }
       return $output;
    }
+
+   /**
+    * Llamar desde la vista login para mostrar notificaciones al usuario
+    *
+    * @return void
+    */
+   public static function catch_login_msg()
+   {
+      $self = new self();
+      $output = '';
+      foreach ($self->valid_types as $type) {
+         if (isset($_SESSION[$type]) && !empty($_SESSION[$type])) {
+            foreach ($_SESSION[$type] as $m) {
+               $output .= '<div class="alert alert-' . $type . ' alert-dismissible show fade" role="alert">';
+               $output .= $m;
+               $output .= '<button type="button" class="close" data-dismiss="alert" aria-label="Cerrar">
+                            <span aria-hidden="true">&times;</span>
+                            </button>';
+               $output .= '</div>';
+            }
+            unset($_SESSION[$type]);
+         }
+      }
+      return $output;
+   }
 }

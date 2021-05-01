@@ -28,4 +28,5 @@
 
    <!-- Template Main CSS File -->
    <link href=<?= CSS . "style.css" ?> rel="stylesheet">
+   <link href="../assets/fonts/style.css"  rel="stylesheet">
 </head>

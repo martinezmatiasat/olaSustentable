@@ -357,7 +357,7 @@ h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 70vh;
+  height: 100vh;
   background-color: rgba(9, 9, 9, 0.8);
   overflow: hidden;
   position: relative;
@@ -394,7 +394,7 @@ h3, h4, h5, h6 {
 }
 
 #hero h2 {
-  color: #555;
+  color: #fff;
   margin-bottom: 20px;
   font-size: 48px;
   font-weight: 700;
@@ -670,7 +670,7 @@ section {
 
 .why-us .content-item span {
   display: block;
-  font-size: 24px;
+  font-size: 28px;
   font-weight: 400;
   color: #00cccc;
 }
@@ -794,68 +794,8 @@ section {
   box-shadow: 0px 0 35px 0 rgba(0, 0, 0, 0.08);
 }
 
-.services .iconbox-blue i {
-  color: #47aeff;
-}
-
-.services .iconbox-blue:hover .icon i {
-  color: #fff;
-}
-
-.services .iconbox-blue:hover .icon path {
-  fill: #47aeff;
-}
-
-.services .iconbox-orange i {
-  color: #ffa76e;
-}
-
-.services .iconbox-orange:hover .icon i {
-  color: #fff;
-}
-
-.services .iconbox-orange:hover .icon path {
-  fill: #ffa76e;
-}
-
-.services .iconbox-pink i {
-  color: #e80368;
-}
-
-.services .iconbox-pink:hover .icon i {
-  color: #fff;
-}
-
-.services .iconbox-pink:hover .icon path {
-  fill: #e80368;
-}
-
-.services .iconbox-yellow i {
-  color: #ffbb2c;
-}
-
-.services .iconbox-yellow:hover .icon i {
-  color: #fff;
-}
-
-.services .iconbox-yellow:hover .icon path {
-  fill: #ffbb2c;
-}
-
-.services .iconbox-red i {
-  color: #ff5828;
-}
-
-.services .iconbox-red:hover .icon i {
-  color: #fff;
-}
-
-.services .iconbox-red:hover .icon path {
-  fill: #ff5828;
-}
-
 .services .iconbox-teal i {
-  color: #11dbcf;
+  color:   rgb(196, 20, 36);
 }
 
 .services .iconbox-teal:hover .icon i {
@@ -863,7 +803,64 @@ section {
 }
 
 .services .iconbox-teal:hover .icon path {
-  fill: #11dbcf;
+  fill: rgb(196, 20, 36);
+}
+
+
+.services .iconbox-orange i {
+  color:  #c18c13;
+}
+
+.services .iconbox-orange:hover .icon i {
+  color: #fff;
+}
+
+.services .iconbox-orange:hover .icon path {
+  fill:  #c18c13;
+}
+
+.services .iconbox-blue i {
+  color: rgb(172, 28, 60);
+}
+
+.services .iconbox-blue:hover .icon i {
+  color: #fff;
+}
+
+.services .iconbox-blue:hover .icon path {
+  fill: rgb(172, 28, 60);
+}
+
+
+.services .iconbox-pink i {
+  color: #487c3e;
+}
+
+.services .iconbox-pink:hover .icon i {
+  color: #fff;
+}
+
+.services .iconbox-pink:hover .icon path {
+  fill: #487c3e;
+}
+
+
+
+.services .iconbox-red i {
+  color: #1c476b;
+}
+
+.services .iconbox-red:hover .icon i {
+  color: #fff;
+}
+
+.services .iconbox-red:hover .icon path {
+  fill: #1c476b;
+}
+
+.services p{
+    color:#aaaaaa;
+    font-family: "Nunito", sans-serif;
 }
 
 /*--------------------------------------------------------------
